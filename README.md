@@ -1,6 +1,6 @@
 ## 🌟 Sobre Mim
 
-👋 Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e soluções criativas. 
+👋 Olá! Sou Guilherme Henrique um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e soluções criativas. 
 Com experiência em **PHP**, **Laravel**, **JavaScript**, **MySQL**, **HTML**, e **CSS**, tenho um interesse especial por design moderno e funcionalidade robusta.
 
 ---
@@ -28,6 +28,5 @@ Se você é tão apaixonado por tecnologia quanto eu, sinta-se à vontade para m
 ## 📫 Vamos Conversar!
 
 - 🌐 [Meu Site](#)
-- ✉️ [E-mail](mailto:exemplo@dominio.com)
-- 🐦 [Twitter](https://twitter.com/seu_usuario)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu_usuario)
+- ✉️ [E-mail](mailto:marketing@arizonagroup.com.br)
+- 📷 [Instagram](https://instagra.com/zhenriquegui)
